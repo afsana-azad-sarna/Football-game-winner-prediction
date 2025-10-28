@@ -54,23 +54,23 @@ The project uses an open-access dataset that includes:
 ## 📈 Key Visualizations
 
 ### Knockouts
-![Knockouts](results/knockouts.PNG)
+![Knockouts](knockouts.PNG)
 
 ---
 
 ### Quarter Final
-![Quarter Final](results/quarter_final.PNG)
+![Quarter Final](quarter_final.PNG)
 
 ---
 
 ### Semi Final  
-![Semi Final](results/semifinal.PNG)
+![Semi Final](semifinal.PNG)
 
 ---
 
 ### Winner Prediction
 Shows the model’s ability to distinguish between winning and losing outcomes.  
-![Winner](results/winner.PNG)
+![Winner](winner.PNG)
 
 ---
 
